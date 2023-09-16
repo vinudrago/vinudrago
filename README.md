@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/vinudrago/vinudrago/assets/133556862/4866627b-4f23-4e55-99d6-44643b7f980e)](https://github.com/vinudrago)
+[![MasterHead](https://github.com/vinudrago/vinudrago/assets/133556862/4cbb01d7-8d59-4f12-9d32-0e1e660d72e6)](https://github.com/vinudrago)
 
 <h1 align="center">Hi 👋, I'm Vinod Kumar K</h1>
 <h3 align="center">Transforming Lines of Code into Digital Magic</h3>
