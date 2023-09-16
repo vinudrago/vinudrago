@@ -1,4 +1,4 @@
-[![MasterHead]([img0.jpg](https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_r1XNl9DLKhUGQA*ccid_Vc2X0Msq&form=ANCMS1&iss=SBIUPLOADGET&selectedindex=0&id=-1975099712&ccid=Vc2X0Msq&exph=223&expw=600&vt=2&sim=11))](https://github.com/vinudrago)
+[![MasterHead](https://github.com/vinudrago/vinudrago/assets/133556862/4866627b-4f23-4e55-99d6-44643b7f980e)](https://github.com/vinudrago)
 
 <h1 align="center">Hi 👋, I'm Vinod Kumar K</h1>
 <h3 align="center">Transforming Lines of Code into Digital Magic</h3>
