@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DS-BizCardX: Extracting Business Card**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Python, MySQL, Data-Visualization**
+- 💬 Ask me about **Python, MySQL, EDA, DATA_Cleaning ML, NLP, MONGO-DB,**
 
 - 📫 How to reach me **vinudrago007@gmail.com**
 
